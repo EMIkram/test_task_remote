@@ -1,16 +1,4 @@
 # test_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a task project to build this UI 
+![Screenshot 2024-03-26 at 8 22 00 PM](https://github.com/EMIkram/test_task_remote/assets/54985306/69df58a7-4e12-443c-9154-38f3000e9a96)
